@@ -1,4 +1,4 @@
-# Leetcode 2024. Maximize the Confusion of an Exam
+# Leetcode 2024. Maximize the Confusion of an Exam (Medium)
 
 # Problem
 
